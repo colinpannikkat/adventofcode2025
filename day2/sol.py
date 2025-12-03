@@ -1,6 +1,6 @@
 # This shit is so brute force lol
 
-def part_one(ids: list[str]) -> int:
+def part_one(ids: list[tuple[str, str]]) -> int:
 
     count = 0
 
